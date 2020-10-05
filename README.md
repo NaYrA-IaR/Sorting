@@ -4,7 +4,7 @@ Here i have created normal sorting functions which shows the time taken by each 
 
 Till now i have added only bubble , inertion and selection sort and the result is bubble sort takes the most time , then insertion and at last with the least time is selection .
 
-Sorting technique is adaptive when the time taken to sort an already sorted list is minimum.
+Sorting technique is adaptive when the time taken to sort an already sorted list is different from the time taken for any other random list.
 
 Sorting technique is stable if after sorting the order is preserved . E.g. - we have a list {8,4,6,8',2,9} (8' is 8 only , i have just taken it to distinguish it from the other one ). So on sorting this we get {2,4,6,8,8',9} i.e. 8' comes after 8 only as was the case in the given list .
  
